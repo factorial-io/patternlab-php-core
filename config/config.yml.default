@@ -19,7 +19,7 @@ id:
   - ".sass-cache"
 
 # whether the public directory should be cleaned when generating your site
-cleanPublic: "true"
+cleanPublic: "false"
 
 # the order of pattern states, css class names
 patternStates:
